@@ -1,0 +1,9 @@
+git init
+
+git add .
+
+git commit -m "creacion del proyecto "
+
+git remote add origin C:\Users\julia\OneDrive\Desktop\Programacion\PrimeraAppWeb
+
+git push -u origin master
